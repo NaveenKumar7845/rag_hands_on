@@ -10,6 +10,18 @@ A simple Retrieval-Augmented Generation (RAG) chat application using Google Gemi
 
 ## Setup
 1. **Clone the repository**
+    ```
+    python -m venv .venv
+    ````
+
+**Windows**
+    ```sh
+   .venv\Scripts\activate
+   ```
+**MAC/Linux**
+    ```sh
+    source .venv/bin/activate
+
 2. **Install dependencies**
    ```sh
    pip install -r requirements.txt
@@ -38,4 +50,3 @@ A simple Retrieval-Augmented Generation (RAG) chat application using Google Gemi
 
 ---
 Made with ❤️ using Streamlit, Gemini, and ChromaDB.
-
