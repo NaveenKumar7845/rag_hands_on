@@ -1,0 +1,9 @@
+# Basic RAG App requirements
+streamlit
+PyPDF2
+chromadb
+google-generativeai
+python-dotenv
+certifi
+qdrant_client
+dotenv
